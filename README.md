@@ -1,4 +1,4 @@
-# eulaw
+# ungadm
 
 An `R` package to access data from the United Nations General Assembly Decision-Making (UNGA-DM) Database via the UNGA-DM Database API. This package provides an intuitive, easy-to-use R interface for the UNGA-DM Database API. 
 
